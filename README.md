@@ -40,3 +40,9 @@ cl /EHsc main.cpp Maze.cpp /Fe:maze_solver.exe
 # Run the executable
 .\maze_solver.exe
 ```
+
+### Example output
+
+Here is an example of a procedurally generated maze with the shortest path calculated and drawn by the application:
+
+![alt text](example_maze.png)

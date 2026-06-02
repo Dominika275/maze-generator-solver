@@ -56,10 +56,10 @@ void Maze::generateRandom(int width, int height) {
         }
     }
 
-    start = {1, 1};
+    start = {0, 1};
     grid[start.y][start.x] = 'A';
 
-    end = {width - 2, height - 2};
+    end = {width - 1, height - 2};
     grid[end.y][end.x] = 'B';
 }
 
