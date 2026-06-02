@@ -1,0 +1,8 @@
+# Skompilowane programy i pliki tymczasowe
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Ustawienia lokalne edytora VS Code
+.vscode/
